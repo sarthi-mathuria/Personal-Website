@@ -1,0 +1,46 @@
+.main-container {
+  min-height: 45vh;
+  margin: 100px 0 -450px 0;
+}
+
+.social-container {
+  text-align: center;
+}
+
+a.social {
+  margin: 0 1.5rem;
+  transition: transform 50ms;
+  display: inline-block;
+}
+
+.mail-container {
+  text-align: center;
+  padding-top: 30px;
+  font-size: 23px;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: var(--dark-orange);
+}
+
+a.social:hover {
+  transform: translateY(-3px);
+}
+
+a.github {
+  color: black;
+}
+a.linkedin {
+  color: black;
+}
+
+a.mail {
+  color: black;
+}
+a.instagram {
+  color: black;
+}
