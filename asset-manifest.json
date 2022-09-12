@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.8d8b62ed.css",
+    "main.js": "/Personal-Website/static/js/main.08f41d40.js",
+    "static/js/787.5809834d.chunk.js": "/Personal-Website/static/js/787.5809834d.chunk.js",
+    "static/media/yuh.jpg": "/Personal-Website/static/media/yuh.818778f4cf1f7f1f20a5.jpg",
+    "static/media/Poppins-Thin.ttf": "/Personal-Website/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Personal-Website/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Personal-Website/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Personal-Website/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Personal-Website/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Personal-Website/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Personal-Website/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/picture.svg": "/Personal-Website/static/media/picture.87edff1415cbb2707f8a.svg",
+    "index.html": "/Personal-Website/index.html",
+    "static/media/programming-skills.svg": "/Personal-Website/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/Personal-Website/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/Personal-Website/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/Personal-Website/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/Personal-Website/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.8d8b62ed.css.map": "/Personal-Website/static/css/main.8d8b62ed.css.map",
+    "main.08f41d40.js.map": "/Personal-Website/static/js/main.08f41d40.js.map",
+    "787.5809834d.chunk.js.map": "/Personal-Website/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8b62ed.css",
+    "static/js/main.08f41d40.js"
+  ]
+}
