@@ -90,7 +90,7 @@ const Resume = (props) => {
       <ResumeHeading
         heading={"University of Texas at Austin"}
         subHeading={"BSA in Computer Science, Minor in Business"}
-        subHeading2={"GPA: 3.87"}
+        subHeading2={"GPA: 3.91"}
         fromDate={"Expected"}
         toDate={" May 2024"}
       />
